@@ -1,7 +1,7 @@
 # DATA-ANALYSIS-PROJECT-USING-SQL
 This report analyzes the sales performance of a company's products across different regions and time periods.
 
-## PROJECT OVERVIEW
+## PROJECT OVERVIEW 
 
 #### This project aims to provide actionable insights into a company's sales performance, customer behavior, and product trends. Leveraging SQL queries, we will analyze a comprehensive dataset to answer critical business questions. The insights gained from this analysis will enable data-driven decision-making, optimize business strategies, and drive growth. By exploring key metrics, trends, and correlations, we will uncover opportunities to enhance customer satisfaction, improve sales performance, and increase revenue.
 
